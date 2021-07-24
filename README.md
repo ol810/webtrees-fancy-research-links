@@ -1,7 +1,7 @@
 Fancy Research Links
 ====================
 
-[![Latest Release](https://img.shields.io/github/release/JustCarmen/fancy_research_links.svg)][1]
+[![latest release for webtrees 1](https://img.shields.io/badge/release-v1.7.11-lightgrey)][1]
 [![webtrees major version](https://img.shields.io/badge/webtrees-v1.x-green)][2]
 
 Fancy Research Links Module for webtrees. This is a webtrees 1 module. It cannot be used with webtrees 2.
@@ -30,7 +30,7 @@ On the Fancy Research Links configuration page you can select the plugins you wa
 
 Translations
 ------------
-You can help to translate this module. Updates to translations should be made at [the translation server][3]. Changes made there will be pushed to this repository periodically and will be included in the next release of this module.
+You can help to translate this module. Use a local editor, like poeditor or notepad++ to make the translations and send them back to me. You can do this via a pull request or by e-mail. Updated translations will be included in the next release of this module.
 
 Installation & upgrading
 ------------------------
