@@ -74,7 +74,7 @@ msgstr "только ссылка"
 
 #: plugins/AchelseKluisBidprentjesPlugin.php:14
 msgid "prayer cards"
-msgstr "prayer cards"
+msgstr "молитвенные карточки"
 
 #: plugins/OpenArchievenZoekBidprentjesPlugin.php:14
 msgid "search prayer cards"
@@ -82,5 +82,5 @@ msgstr "search prayer cards"
 
 #: plugins/WikiTreePlugin.php:14
 msgid "surname only"
-msgstr "surname only"
+msgstr "только фамилия"
 
